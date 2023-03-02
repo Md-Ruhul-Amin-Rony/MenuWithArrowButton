@@ -1,0 +1,15 @@
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.csproj.AssemblyReference.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.AssemblyInfoInputs.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.AssemblyInfo.cs
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.csproj.CoreCompileInputs.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\bin\Debug\net6.0\Menubarwitharrowbutton.exe
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\bin\Debug\net6.0\Menubarwitharrowbutton.deps.json
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\bin\Debug\net6.0\Menubarwitharrowbutton.runtimeconfig.json
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\bin\Debug\net6.0\Menubarwitharrowbutton.dll
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\bin\Debug\net6.0\Menubarwitharrowbutton.pdb
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.dll
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\refint\Menubarwitharrowbutton.dll
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.pdb
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\Menubarwitharrowbutton.genruntimeconfig.cache
+C:\Users\adiar\OneDrive\Desktop\iths\ithsclass\Menubarwitharrowbutton\Menubarwitharrowbutton\obj\Debug\net6.0\ref\Menubarwitharrowbutton.dll
